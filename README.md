@@ -6,6 +6,6 @@ This is a repository for the Dartmouth Outing Club of Northern California websit
 
 All you need to do to run this site locally is run this command
 
-'''
+```
 php -S localhost:8000
-'''
+```
