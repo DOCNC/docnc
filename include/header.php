@@ -96,7 +96,7 @@
                             <li><a href="http://www.skisodasprings.com">Soda Springs Ski &amp; Snow Park</a></li>
                             <li><a href="http://www.royalgorge.com">Royal Gorge X-Country</a></li>
                             <li><a href="http://www.babesinthebackcountry.com">Babes in the Backcountry</a></li>
-                            <li><a href="http://www.tahoe.com/lake-tahoe/summer-activities/">Tahoe Summers</a></li>
+                            <li><a href="https://tahoe.com/things-to-do/summer-activities">Tahoe Summers</a></li>
                             <li><a href="http://www.tahoebike.org">Biking</a></li>
                             <li><a href="http://www.theflumetrail.com">The Flume Trail</a></li>
                             <li><a href="http://www.rockclimbing.com/routes/North_America/United_States/California/Lake_Tahoe/Donner_Summit">Donner Summit Climbing</a></li>
